@@ -1,0 +1,10 @@
+@echo off
+set valid1=argtest
+set valid2=chk-noarg
+set valid3=cls
+set valid4=disable-taskmgr
+set valid5=help
+set valid6=open-exe
+set valid7=prompt
+set valid8=text
+set valid9=var
