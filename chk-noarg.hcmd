@@ -1,0 +1,3 @@
+@echo off
+if defined NO_ARGS echo No argument mode.
+if not defined NO_ARGS echo Argument mode.

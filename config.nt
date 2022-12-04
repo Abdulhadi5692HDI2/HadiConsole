@@ -1,0 +1,5 @@
+@echo off
+set _TOOLS_PATH=..\tools
+set def_loader=%_TOOLS_PATH%\ntsexec.bat
+set _C_TITLE=HadiConsole
+echo Config: Loaded.

@@ -1,0 +1,11 @@
+@echo off
+echo -- COMMAND LIST --
+echo 1. cls - Clears the screen
+echo 2. argtest [string1] [string2] - Tests arguments in HadiConsole
+echo 3. open-exe [program] [args] - Opens the program [program] with arguments [args]
+echo 4. disable-taskmgr - Prevents you from opening taskmgr.
+echo 5. chk-noarg - Standalone program for checking config value 'NO_ARGS'
+echo 6. var [variable name] [variable value] - Makes a variable named [variable name] with value [variable value].
+echo The variable value can be seen in argtest.
+echo argtest %variable name% would result in: (assuming string2 is empty)
+echo "variable value" ""

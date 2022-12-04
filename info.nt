@@ -1,0 +1,11 @@
+@echo off
+:: HadiConsole
+set major=1
+set minor=0
+set patch=0
+
+:: API
+set API=defined: Internal api
+set API[major]=1
+set API[minor]=0
+set API[patch]=0

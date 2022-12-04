@@ -1,0 +1,5 @@
+@echo off
+
+:main
+:: '~' to remove ""
+start %~1 %~2

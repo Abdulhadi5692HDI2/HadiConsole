@@ -1,0 +1,6 @@
+@echo off
+
+:main
+set %1=%2
+echo %1=%2
+goto :eof

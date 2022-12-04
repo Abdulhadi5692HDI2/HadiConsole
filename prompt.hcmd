@@ -1,0 +1,4 @@
+@echo off
+set /p tprompt=%~1 
+echo Prompt: %~1
+echo Answer: %tprompt%
